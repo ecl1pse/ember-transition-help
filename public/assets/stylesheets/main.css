@@ -1,0 +1,16 @@
+img {
+  max-width: 100%;
+}
+
+.title-img {
+  margin-top: 40px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.actions {
+  margin-top: 20px;
+  text-align: right;
+}
